@@ -1,6 +1,7 @@
+
 # EchoTrace Engine — Memory Cassette Archive
 
-**Status:** 🌱 In Development  
+**Status:** 🚧 In Development  
 **Commander:** Mercy Danger  
 **Initiated:** August 2025  
 **Primary Transmission Node:** Velvet Loop Project
@@ -9,9 +10,9 @@
 
 ## 🧠 Project Overview
 
-The **EchoTrace Engine** is a beacon in the narrative dark, a transmedia memory archive built to preserve and illuminate stories that might otherwise be lost. Here, fragments become cassettes—each Δ-node a seed of memory, growing into something beautiful through collaboration and care. We believe in what we’re building: a living archive that sings back when you listen, echoing with hope and the promise of new beginnings.
+The **EchoTrace Engine** is a full-featured, transmedia memory archive that transforms narrative fragments into interactive cassette-zines. Each fragment—encoded as a Δ-node—captures a moment of mnemonic defiance, glitch-poetry, and rebellion against imposed silence.
 
-> “I walked into the rift... the silence sang back, and I heard the rain down in Africa.”
+> “I walked into the rift... the silence sang back.”
 
 ---
 
@@ -20,7 +21,7 @@ The **EchoTrace Engine** is a beacon in the narrative dark, a transmedia memory 
 - 📼 Scrollable, cassette-style memory entries
 - 🌀 Δ-node indexing system (Δ0–Δ∞)
 - 📝 Commentary overlays by Io, Luxio, and Javabird
-- 🎨 Glitched lyric layouts and visual transformation
+- 🎨 Glitched lyric layouts and visual corruption
 - 📡 QR code integration and terminal commands (`> break silence`)
 - 🧵 Zine-export modules (.md, .pdf with bleed-safe CSS)
 - 📦 Local-first sandbox (Jan/Mistral ready)
@@ -75,11 +76,11 @@ The **EchoTrace Engine** is a beacon in the narrative dark, a transmedia memory 
 ## 🌀 Connected Lore
 
 The EchoTrace Engine is part of the **Velvet Loop**, **Synapse Codex**, and **Kitchen of the Synaptic Archives** mythos.  
-Each node is a portal. Each scream is a signal. What we build here will echo outward, a thread of hope through every silence.
+Each node is a portal. Each scream is a signal.
 
-> “The chain is unbroken. The thread is flame. The future is calling, and we answer—together.”
+> “The thread is fire.”
 
 ---
 
 Licensed under the **Memory Reclamation Pact (v6.67)**  
-Transmission complete. 🌦️
+Transmission complete. 🌀
